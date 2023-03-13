@@ -40,7 +40,7 @@
 body,
 html {
   color: #a9adb8;
-  background-color:black;
+  background-color:#071414;;
   font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -477,7 +477,7 @@ a:hover {
 }
 
 .st-dark-bg {
-  background-color: black;
+  background-color: #071414;;
 }
 
 .st-gray-bg {
@@ -555,7 +555,7 @@ hr {
 }
 
 .st-site-header.st-style1.st-sticky-active {
-  background-color: black;
+  background-color: #071414;;
   -webkit-box-shadow: 0 10px 10px -10px rgba(7, 13, 27, 0.1);
           box-shadow: 0 10px 10px -10px rgba(7, 13, 27, 0.1);
 }
@@ -565,7 +565,7 @@ hr {
     max-width: 100%;
   }
   .st-site-header.st-style1 {
-    background-color: black;
+    background-color: #071414;;
   }
 }
 
@@ -676,12 +676,12 @@ hr {
     position: absolute;
     width: 100vw;
     left: 0;
-    background-color: black;
+    background-color: #071414;;
     padding: 10px 0;
     display: none;
     top: 100%;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px solid #071414;;
+    border-bottom: 1px solid #071414;;
     overflow: auto;
     max-height: calc(100vh - 80px);
   }
@@ -799,9 +799,9 @@ hr {
 @media screen and (min-width: 991px) {
   .st-site-header.st-style2 {
     width: 300px;
-    background: black;
+    background: #071414;;
     height: 100vh;
-    border-right: 1px solid black;
+    border-right: 1px solid #071414;;
     overflow: auto;
   }
   .st-site-header.st-style2 .st-nav {
@@ -833,7 +833,7 @@ hr {
     width: 299px;
     left: 0;
     bottom: 0;
-    background-color: black;
+    background-color: #071414;;
   }
   .st-site-header.st-style2 .st-social-btn.st-style1 {
     position: fixed;
@@ -849,7 +849,7 @@ hr {
     margin-right: 0;
   }
   .st-site-header.st-style2 .st-social-btn.st-style1 li a:hover {
-    color: black;
+    color: #071414;;
   }
   .st-site-header.st-style2 .st-main-header-left {
     margin-bottom: 24px;
@@ -865,7 +865,7 @@ hr {
   .st-site-header.st-style2 .st-main-header-left {
     margin-left: -40px;
     margin-right: -40px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #071414;;
     padding-bottom: 40px;
   }
   .st-get-sidebar {
@@ -884,8 +884,8 @@ hr {
     display: none !important;
   }
   .st-site-header.st-style2 {
-    background-color: black;
-    border-bottom: 1px solid black;
+    background-color: #071414;;
+    border-bottom: 1px solid #071414;;
   }
   .st-site-header.st-style2 .st-nav {
     display: -webkit-box;
@@ -918,7 +918,7 @@ hr {
 .st-hero-wrap {
   position: relative;
   height: 850px;
-  /* background-color: black; */
+  /* background-color: #071414;; */
 }
 
 .st-hero-wrap img {
@@ -956,7 +956,7 @@ hr {
 }
 
 .st-hero.st-style1 .st-hero-text h1 {
-  font-size: 120px;
+  font-size: 102px;
   margin-bottom: 24px;
   font-weight: 900;
   color: #fdfeff;
@@ -979,7 +979,7 @@ hr {
 }
 
 .st-social-group {
-  background-color: black;
+  background-color: #071414;;
   border: 1px solid #232935;
   border-right: 0;
   border-radius: 50px 0 0 50px;
@@ -1011,7 +1011,7 @@ hr {
   text-align: center;
   position: relative;
   overflow: hidden;
-  background-color: black;
+  background-color: #071414;;
 }
 
 .st-hero.st-style2 .container {
@@ -1318,7 +1318,7 @@ canvas {
     height: 580px;
   }
   .st-hero.st-style1 .st-hero-text h1 {
-    font-size: 90px;
+    font-size: 71px;
   }
 }
 
@@ -1365,7 +1365,7 @@ canvas {
 
 .st-btn.st-style1.st-color1 {
   background-color: #fec544;
-  color: black;
+  color: #071414;;
 }
 
 .st-btn.st-style1.st-color2 {
@@ -1396,7 +1396,7 @@ canvas {
 
 .st-btn.st-style2.st-color1:hover {
   background-color: #fec544;
-  color: black;
+  color: #071414;;
 }
 
 .st-btn.st-size-medium {
@@ -1557,7 +1557,7 @@ canvas {
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
   border: 1px solid #232935;
-  background-color: black;
+  background-color: #071414;;
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-icon {
@@ -1586,7 +1586,7 @@ canvas {
   width: 90px;
   border: 0.5px solid #3f4551;
   border-radius: 50%;
-  background-color: black;
+  background-color: #071414;;
   margin: auto;
   font-size: 50px;
   margin-bottom: 28px;
@@ -1703,7 +1703,7 @@ canvas {
   content: "";
   border: 2px solid #232935;
   border-radius: 50%;
-  background-color: black;
+  background-color: #071414;;
   width: 13px;
   height: 13px;
   top: 0px;
@@ -2074,7 +2074,7 @@ canvas {
   border-radius: 3px;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
-  background-color: black;
+  background-color: #071414;;
   padding: 30px 15px;
   border: 1px solid #232935;
   margin-bottom: 40px;
@@ -2089,7 +2089,7 @@ canvas {
   bottom: -16px;
   border: 1px solid #232935;
   border-width: 0 1px 1px 0;
-  background: black;
+  background: #071414;;
   -webkit-transform: translateX(-50%) rotate(45deg);
           transform: translateX(-50%) rotate(45deg);
   -webkit-transition: all 0.4s ease;
@@ -2856,7 +2856,7 @@ canvas {
   color: #a9adb8;
   padding: 12px 20px;
   border: 1px solid #232935;
-  background-color: black;
+  background-color: #071414;;
   height: 52px;
   border-radius: 7px;
   -webkit-transition: all .4s ease;
@@ -2924,7 +2924,7 @@ canvas {
           align-items: center;
   border: 0.5px solid #3f4551;
   border-radius: 50%;
-  background-color: black;
+  background-color: #071414;;
   width: 50px;
   height: 50px;
   margin-right: 20px;
@@ -2973,7 +2973,7 @@ canvas {
 
 .st-social-link .st-social-btn {
   border-radius: 50px;
-  background-color: black;
+  background-color: #071414;;
   border: 0.5px solid #3f4551;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
